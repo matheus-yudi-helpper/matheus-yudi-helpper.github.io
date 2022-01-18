@@ -11,8 +11,8 @@
   <DisplayName DefaultValue="MZ Outlook Add-in"/>
   <!-- TODO: Descrição do projeto -->
   <Description DefaultValue="A template to get started."/>
-  <IconUrl DefaultValue="https://matheus-yudi-helpper.github.io/outlook-linker-test/assets/icons/mz/mz-logo-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://matheus-yudi-helpper.github.io/outlook-linker-test/assets/icons/mz/mz-logo-128.png"/>
+  <IconUrl DefaultValue="https://localhost:3000/assets/icons/mz/mz-logo-64.png"/>
+  <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/icons/mz/mz-logo-128.png"/>
   <!-- TODO: URL de suporte -->
   <SupportUrl DefaultValue="https://www.mzgroup.com/"/>
   <AppDomains>
@@ -31,7 +31,7 @@
     <Form xsi:type="ItemRead">
       <DesktopSettings>
         <!-- Deve usar HTTPS -->
-        <SourceLocation DefaultValue="https://matheus-yudi-helpper.github.io/outlook-linker-test/taskpane.html"/>
+        <SourceLocation DefaultValue="https://localhost:3000/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -147,13 +147,13 @@
     <!-- Recursos -->
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://matheus-yudi-helpper.github.io/outlook-linker-test/assets/icons/mz/mz-logo-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://matheus-yudi-helpper.github.io/outlook-linker-test/assets/icons/mz/mz-logo-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://matheus-yudi-helpper.github.io/outlook-linker-test/assets/icons/mz/mz-logo-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://localhost:3000/assets/icons/mz/mz-logo-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://localhost:3000/assets/icons/mz/mz-logo-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://localhost:3000/assets/icons/mz/mz-logo-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://matheus-yudi-helpper.github.io/outlook-linker-test/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://matheus-yudi-helpper.github.io/outlook-linker-test/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://localhost:3000/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://localhost:3000/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="Actions"/>
@@ -294,15 +294,15 @@
       <!-- Recursos - suplementos móveis devem, no mínimo, dar suporte a ícones de 25, 32 e 48 pixels -->
       <Resources>
         <bt:Images>
-          <bt:Image id="Icon.16x16" DefaultValue="https://matheus-yudi-helpper.github.io/outlook-linker-test/assets/icons/mz/mz-logo-16.png"/>
-          <bt:Image id="Icon.25x25" DefaultValue="https://matheus-yudi-helpper.github.io/outlook-linker-test/assets/icons/mz/mz-logo-25.png"/>
-          <bt:Image id="Icon.32x32" DefaultValue="https://matheus-yudi-helpper.github.io/outlook-linker-test/assets/icons/mz/mz-logo-32.png"/>
-          <bt:Image id="Icon.48x48" DefaultValue="https://matheus-yudi-helpper.github.io/outlook-linker-test/assets/icons/mz/mz-logo-48.png"/>
-          <bt:Image id="Icon.80x80" DefaultValue="https://matheus-yudi-helpper.github.io/outlook-linker-test/assets/icons/mz/mz-logo-80.png"/>
+          <bt:Image id="Icon.16x16" DefaultValue="https://localhost:3000/assets/icons/mz/mz-logo-16.png"/>
+          <bt:Image id="Icon.25x25" DefaultValue="https://localhost:3000/assets/icons/mz/mz-logo-25.png"/>
+          <bt:Image id="Icon.32x32" DefaultValue="https://localhost:3000/assets/icons/mz/mz-logo-32.png"/>
+          <bt:Image id="Icon.48x48" DefaultValue="https://localhost:3000/assets/icons/mz/mz-logo-48.png"/>
+          <bt:Image id="Icon.80x80" DefaultValue="https://localhost:3000/assets/icons/mz/mz-logo-80.png"/>
         </bt:Images>
         <bt:Urls>
-          <bt:Url id="Commands.Url" DefaultValue="https://matheus-yudi-helpper.github.io/outlook-linker-test/commands.html"/>
-          <bt:Url id="Taskpane.Url" DefaultValue="https://matheus-yudi-helpper.github.io/outlook-linker-test/taskpane.html"/>
+          <bt:Url id="Commands.Url" DefaultValue="https://localhost:3000/commands.html"/>
+          <bt:Url id="Taskpane.Url" DefaultValue="https://localhost:3000/taskpane.html"/>
         </bt:Urls>
         <bt:ShortStrings>
           <bt:String id="GroupLabel" DefaultValue="Actions"/>

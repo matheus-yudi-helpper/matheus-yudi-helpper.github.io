@@ -1,0 +1,1 @@
+const ieHandler=t=>function(){try{return t.apply(window.history,arguments)}catch(t){if(document.documentMode)return!1;throw t}},cacheHistory=()=>{window._historyCache={pushState:window.history.pushState,replaceState:window.history.replaceState}};window._historyCache={pushState:window.history.pushState,replaceState:window.history.replaceState};
