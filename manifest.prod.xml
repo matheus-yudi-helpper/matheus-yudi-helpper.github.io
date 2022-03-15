@@ -10,7 +10,7 @@
   <!-- TODO: Nome do projeto -->
   <DisplayName DefaultValue="MZ Outlook Add-in"/>
   <!-- TODO: Descrição do projeto -->
-  <Description DefaultValue="A template to get started."/>
+  <Description DefaultValue="MZ Outlook Add-in"/>
   <IconUrl DefaultValue="https://matheus-yudi-helpper.github.io/outlook-linker-test/assets/icons/mz/mz-logo-64.png"/>
   <HighResolutionIconUrl DefaultValue="https://matheus-yudi-helpper.github.io/outlook-linker-test/assets/icons/mz/mz-logo-128.png"/>
   <!-- TODO: URL de suporte -->
