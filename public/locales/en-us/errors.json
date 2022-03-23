@@ -10,6 +10,8 @@
   "getLastMailings": "Unable to get the contact's latest mailings",
   "getLastTasks": "Unable to get the contact's latest tasks",
   "getLastWebcasts": "Unable to get the contact's latest webcasts",
+  "getMailboxHistory": "Unable to get mailbox history",
+  "getMailboxHistoryCount": "Unable to get mailbox history emails count",
   "getParticipants": "Unable to get list of participants",
   "getPeersPosition": "Unable to obtain the share position in the pairs",
   "getTotalMailings": "Unable to get total mailings",

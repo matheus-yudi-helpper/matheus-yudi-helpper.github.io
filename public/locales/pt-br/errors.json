@@ -10,6 +10,8 @@
   "getLastMailings": "Não foi possível obter os últimos mailings do contato",
   "getLastTasks": "Não foi possível obter as últimas tarefas do contato",
   "getLastWebcasts": "Não foi possível obter os últimos webcasts do contato",
+  "getMailboxHistory": "Não foi possível obter o histórico de emails",
+  "getMailboxHistoryCount": "Não foi possível obter o total de emails do histórico",
   "getParticipants": "Não foi possível obter a lista de participantes",
   "getPeersPosition": "Não foi possível obter a posição acionaria nos pares",
   "getTotalMailings": "Não foi possível obter o total de mailings",
