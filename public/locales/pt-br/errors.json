@@ -5,6 +5,7 @@
   "getClosingPriceHistory": "Não foi possível obter o histórico do preço de fechamento",
   "getCompanyPosition": "Não foi possível obter a posição acionaria da empresa",
   "getContact": "Não foi possível obter as informações do contato",
+  "getConversionRates": "Não foi possível obter as taxas de conversão",
   "getExecutors": "Não foi possível obter a lista de responsáveis",
   "getInteractionsEngagement": "Não foi possível obter o total de interações e engajamento do contato",
   "getLastMailings": "Não foi possível obter os últimos mailings do contato",
