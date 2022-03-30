@@ -2,6 +2,7 @@
   "addContact": "Não foi possível salvar o contato",
   "addTask": "Não foi possível salvar a atividade",
   "app": "Desculpe, algo deu errado com o aplicativo",
+  "getAccessToken": "Não foi possível obter o token de acesso",
   "getClosingPriceHistory": "Não foi possível obter o histórico do preço de fechamento",
   "getCompanyPosition": "Não foi possível obter a posição acionaria da empresa",
   "getContact": "Não foi possível obter as informações do contato",
@@ -21,6 +22,8 @@
   "logout": "Não foi possível realizar o logout",
   "noResources": "Nenhum recurso disponível até o momento.",
   "pageNotFound": "Desculpe, esta página não se encontra disponível até o momento.",
+  "registerUniqueId": "Não foi possível registrar o ID do usuário",
   "saveAppData": "Não foi possível salvar os dados da aplicação",
+  "saveRoamingSettings": "Não foi possível salvar as configurações de roaming",
   "saveToken": "Não foi possível salvar o token"
 }

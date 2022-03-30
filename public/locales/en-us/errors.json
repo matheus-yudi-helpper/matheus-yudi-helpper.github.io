@@ -2,6 +2,7 @@
   "addContact": "Unable to save contact",
   "addTask": "Unable to save activity",
   "app": "Sorry, something went wrong with the application",
+  "getAccessToken": "Unable to get access token",
   "getClosingPriceHistory": "Unable to get closing price history information",
   "getCompanyPosition": "Unable to get shareholding position of the company",
   "getContact": "Unable to get contact information",
@@ -21,6 +22,8 @@
   "logout": "Unable to logout",
   "noResources": "No resources available at this time.",
   "pageNotFound": "Sorry, this page is currently unavailable.",
+  "registerUniqueId": "Unable to register user ID",
   "saveAppData": "Unable to save application data",
+  "saveRoamingSettings": "Unable to save roaming settings",
   "saveToken": "Unable to save token"
 }
