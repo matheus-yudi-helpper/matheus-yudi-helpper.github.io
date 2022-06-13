@@ -1,0 +1,1 @@
+const restoreHistory=()=>{window.history.pushState=window._historyCache.pushState,window.history.replaceState=window._historyCache.replaceState};window.history.pushState=window._historyCache.pushState,window.history.replaceState=window._historyCache.replaceState;

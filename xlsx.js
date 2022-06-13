@@ -1,1 +1,1 @@
-(self.webpackChunkmz_gmail_extension=self.webpackChunkmz_gmail_extension||[]).push([[297],{54130:()=>{}}]);
+(self.webpackChunkmz_outlook_addin=self.webpackChunkmz_outlook_addin||[]).push([[297],{54130:function(){}}]);
